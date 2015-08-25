@@ -7,37 +7,37 @@ class GslbPluginDriverImpl(GslbAbstractDriver):
 
     """
     def delete_member(self, context, member):
-        super(GslbPluginDriverImpl, self).delete_member(context, member)
+        pass
 
     def create_loadbalancer(self, context, loadbalancer):
-        super(GslbPluginDriverImpl, self).create_loadbalancer(context, loadbalancer)
+        pass
 
     def delete_healthmonitor(self, context, healthmonitor):
-        super(GslbPluginDriverImpl, self).delete_healthmonitor(context, healthmonitor)
+        pass
 
     def delete_pooL_healthmonitor(self, context, pool_id, healthmonitor):
-        super(GslbPluginDriverImpl, self).delete_pooL_healthmonitor(context, pool_id, healthmonitor)
+        pass
 
     def create_healthmonitor(self, context, healthmonitor):
-        super(GslbPluginDriverImpl, self).create_healthmonitor(context, healthmonitor)
+        pass
 
     def delete_entity_status(self, context, entity):
-        super(GslbPluginDriverImpl, self).delete_entity_status(context, entity)
+        pass
 
     def delete_pool(self, context, pool):
-        super(GslbPluginDriverImpl, self).delete_pool(context, pool)
+        pass
 
     def create_pool_healthmonitor(self, context, pool_id, healthmonitor):
-        super(GslbPluginDriverImpl, self).create_pool_healthmonitor(context, pool_id, healthmonitor)
+        pass
 
     def delete_loadbalancer(self, context, loadbalancer):
-        super(GslbPluginDriverImpl, self).delete_loadbalancer(context, loadbalancer)
+        pass
 
     def create_pool(self, context, pool):
-        super(GslbPluginDriverImpl, self).create_pool(context, pool)
+        pass
 
     def update_entity_status(self, context, entity_id, state):
-        super(GslbPluginDriverImpl, self).update_entity_status(context, entity_id, state)
+        pass
 
     def create_member(self, context, member):
-        super(GslbPluginDriverImpl, self).create_member(context, member)
+        pass
